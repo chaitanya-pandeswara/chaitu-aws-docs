@@ -10,4 +10,4 @@ The sample code within this documentation is made available under a modified MIT
 
 
 
-![Screenshot](/images/jenkins-pipeline-job.png)
+![Screenshot](images/jenkins-pipeline-job.png)
