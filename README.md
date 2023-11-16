@@ -14,12 +14,6 @@ The sample code within this documentation is made available under a modified MIT
 
 
 
-<img width="459" alt="jenkins-pipeline-job" src="https://github.com/chaitanya-pandeswara/chaitu-aws-docs/assets/57262203/b02d8fbd-e4f7-443e-861e-ae2bc50b6939">
-
-
-
-
-
 
 
 
